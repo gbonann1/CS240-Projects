@@ -1,0 +1,246 @@
+Steve vs. Luca
+	Battle 1: Luca  defeated Steve : Steve 25, Luca 27
+	Battle 2: Luca  defeated Steve : Steve 24, Luca 28
+	Battle 3: Luca  defeated Steve : Steve 23, Luca 29
+	Battle 4: Steve  defeated Luca : Steve 24, Luca 28
+	Battle 5: Steve  defeated Luca : Steve 25, Luca 27
+	Battle 6: Steve  defeated Luca : Steve 26, Luca 26
+	Battle 7: Steve  tied Luca 	War 1: Steve  defeated Luca : Steve 27, Luca 25
+	Battle 8: Steve  defeated Luca : Steve 28, Luca 24
+	Battle 9: Steve  tied Luca 	War 2: Steve  defeated Luca : Steve 29, Luca 23
+	Battle 10: Steve  defeated Luca : Steve 30, Luca 22
+	Battle 11: Steve  defeated Luca : Steve 31, Luca 21
+	Battle 12: Luca  defeated Steve : Steve 30, Luca 22
+	Battle 13: Steve  defeated Luca : Steve 31, Luca 21
+	Battle 14: Steve  defeated Luca : Steve 32, Luca 20
+	Battle 15: Steve  defeated Luca : Steve 33, Luca 19
+	Battle 16: Steve  defeated Luca : Steve 34, Luca 18
+	Battle 17: Luca  defeated Steve : Steve 33, Luca 19
+	Battle 18: Luca  defeated Steve : Steve 32, Luca 20
+	Battle 19: Steve  defeated Luca : Steve 33, Luca 19
+	Battle 20: Luca  defeated Steve : Steve 32, Luca 20
+	Battle 21: Luca  defeated Steve : Steve 31, Luca 21
+	Battle 22: Steve  defeated Luca : Steve 32, Luca 20
+	Battle 23: Steve  defeated Luca : Steve 33, Luca 19
+	Battle 24: Luca  defeated Steve : Steve 32, Luca 20
+	Battle 25: Luca  defeated Steve : Steve 31, Luca 21
+	Battle 26: Steve  defeated Luca : Steve 32, Luca 20
+	Battle 27: Steve  defeated Luca : Steve 33, Luca 19
+	Battle 28: Luca  defeated Steve : Steve 32, Luca 20
+	Battle 29: Luca  defeated Steve : Steve 31, Luca 21
+	Battle 30: Luca  defeated Steve : Steve 30, Luca 22
+	Battle 31: Luca  defeated Steve : Steve 29, Luca 23
+	Battle 32: Luca  defeated Steve : Steve 28, Luca 24
+	Battle 33: Luca  defeated Steve : Steve 27, Luca 25
+	Battle 34: Luca  defeated Steve : Steve 26, Luca 26
+	Battle 35: Luca  defeated Steve : Steve 25, Luca 27
+	Battle 36: Steve  defeated Luca : Steve 26, Luca 26
+	Battle 37: Steve  defeated Luca : Steve 27, Luca 25
+	Battle 38: Steve  defeated Luca : Steve 28, Luca 24
+	Battle 39: Steve  defeated Luca : Steve 29, Luca 23
+	Battle 40: Luca  defeated Steve : Steve 28, Luca 24
+	Battle 41: Luca  defeated Steve : Steve 27, Luca 25
+	Battle 42: Luca  defeated Steve : Steve 26, Luca 26
+	Battle 43: Steve  defeated Luca : Steve 27, Luca 25
+	Battle 44: Steve  defeated Luca : Steve 28, Luca 24
+	Battle 45: Steve  defeated Luca : Steve 29, Luca 23
+	Battle 46: Steve  defeated Luca : Steve 30, Luca 22
+	Battle 47: Steve  defeated Luca : Steve 31, Luca 21
+	Battle 48: Luca  defeated Steve : Steve 30, Luca 22
+	Battle 49: Luca  defeated Steve : Steve 29, Luca 23
+	Battle 50: Luca  defeated Steve : Steve 28, Luca 24
+	Battle 51: Luca  defeated Steve : Steve 27, Luca 25
+	Battle 52: Luca  defeated Steve : Steve 26, Luca 26
+	Battle 53: Steve  tied Luca 	War 3: Steve  defeated Luca : Steve 27, Luca 25
+	Battle 54: Luca  defeated Steve : Steve 26, Luca 26
+	Battle 55: Steve  defeated Luca : Steve 27, Luca 25
+	Battle 56: Steve  tied Luca 	War 4: Steve  defeated Luca : Steve 28, Luca 24
+	Battle 57: Steve  defeated Luca : Steve 29, Luca 23
+	Battle 58: Luca  defeated Steve : Steve 28, Luca 24
+	Battle 59: Steve  defeated Luca : Steve 29, Luca 23
+	Battle 60: Steve  defeated Luca : Steve 30, Luca 22
+	Battle 61: Luca  defeated Steve : Steve 29, Luca 23
+	Battle 62: Luca  defeated Steve : Steve 28, Luca 24
+	Battle 63: Steve  defeated Luca : Steve 29, Luca 23
+	Battle 64: Steve  defeated Luca : Steve 30, Luca 22
+	Battle 65: Luca  defeated Steve : Steve 29, Luca 23
+	Battle 66: Luca  defeated Steve : Steve 28, Luca 24
+	Battle 67: Steve  defeated Luca : Steve 29, Luca 23
+	Battle 68: Steve  defeated Luca : Steve 30, Luca 22
+	Battle 69: Steve  defeated Luca : Steve 31, Luca 21
+	Battle 70: Steve  defeated Luca : Steve 32, Luca 20
+	Battle 71: Luca  defeated Steve : Steve 31, Luca 21
+	Battle 72: Luca  defeated Steve : Steve 30, Luca 22
+	Battle 73: Steve  defeated Luca : Steve 31, Luca 21
+	Battle 74: Steve  defeated Luca : Steve 32, Luca 20
+	Battle 75: Steve  defeated Luca : Steve 33, Luca 19
+	Battle 76: Luca  defeated Steve : Steve 32, Luca 20
+	Battle 77: Steve  defeated Luca : Steve 33, Luca 19
+	Battle 78: Steve  defeated Luca : Steve 34, Luca 18
+	Battle 79: Steve  defeated Luca : Steve 35, Luca 17
+	Battle 80: Steve  defeated Luca : Steve 36, Luca 16
+	Battle 81: Steve  defeated Luca : Steve 37, Luca 15
+	Battle 82: Steve  defeated Luca : Steve 38, Luca 14
+	Battle 83: Luca  defeated Steve : Steve 37, Luca 15
+	Battle 84: Luca  defeated Steve : Steve 36, Luca 16
+	Battle 85: Luca  defeated Steve : Steve 35, Luca 17
+	Battle 86: Steve  defeated Luca : Steve 36, Luca 16
+	Battle 87: Luca  defeated Steve : Steve 35, Luca 17
+	Battle 88: Luca  defeated Steve : Steve 34, Luca 18
+	Battle 89: Steve  defeated Luca : Steve 35, Luca 17
+	Battle 90: Steve  defeated Luca : Steve 36, Luca 16
+	Battle 91: Luca  defeated Steve : Steve 35, Luca 17
+	Battle 92: Steve  tied Luca 	War 5: Steve  defeated Luca : Steve 36, Luca 16
+	Battle 93: Steve  tied Luca 	War 6:Luca  defeated Steve : Steve 35, Luca 17
+	Battle 94: Steve  tied Luca 	War 7:Luca  defeated Steve : Steve 34, Luca 18
+	Battle 95: Steve  defeated Luca : Steve 35, Luca 17
+	Battle 96: Steve  defeated Luca : Steve 36, Luca 16
+	Battle 97: Luca  defeated Steve : Steve 35, Luca 17
+	Battle 98: Luca  defeated Steve : Steve 34, Luca 18
+	Battle 99: Steve  defeated Luca : Steve 35, Luca 17
+	Battle 100: Steve  tied Luca 	War 8:Luca  defeated Steve : Steve 34, Luca 18
+	Battle 101: Luca  defeated Steve : Steve 33, Luca 19
+	Battle 102: Luca  defeated Steve : Steve 32, Luca 20
+	Battle 103: Luca  defeated Steve : Steve 31, Luca 21
+	Battle 104: Luca  defeated Steve : Steve 30, Luca 22
+	Battle 105: Steve  defeated Luca : Steve 31, Luca 21
+	Battle 106: Luca  defeated Steve : Steve 30, Luca 22
+	Battle 107: Luca  defeated Steve : Steve 29, Luca 23
+	Battle 108: Luca  defeated Steve : Steve 28, Luca 24
+	Battle 109: Luca  defeated Steve : Steve 27, Luca 25
+	Battle 110: Luca  defeated Steve : Steve 26, Luca 26
+	Battle 111: Steve  defeated Luca : Steve 27, Luca 25
+	Battle 112: Steve  defeated Luca : Steve 28, Luca 24
+	Battle 113: Steve  defeated Luca : Steve 29, Luca 23
+	Battle 114: Luca  defeated Steve : Steve 28, Luca 24
+	Battle 115: Steve  defeated Luca : Steve 29, Luca 23
+	Battle 116: Steve  defeated Luca : Steve 30, Luca 22
+	Battle 117: Steve  defeated Luca : Steve 31, Luca 21
+	Battle 118: Steve  defeated Luca : Steve 32, Luca 20
+	Battle 119: Luca  defeated Steve : Steve 31, Luca 21
+	Battle 120: Luca  defeated Steve : Steve 30, Luca 22
+	Battle 121: Luca  defeated Steve : Steve 29, Luca 23
+	Battle 122: Steve  defeated Luca : Steve 30, Luca 22
+	Battle 123: Luca  defeated Steve : Steve 29, Luca 23
+	Battle 124: Luca  defeated Steve : Steve 28, Luca 24
+	Battle 125: Luca  defeated Steve : Steve 27, Luca 25
+	Battle 126: Luca  defeated Steve : Steve 26, Luca 26
+	Battle 127: Steve  tied Luca 	War 9:Luca  defeated Steve : Steve 25, Luca 27
+	Battle 128: Steve  defeated Luca : Steve 26, Luca 26
+	Battle 129: Steve  defeated Luca : Steve 27, Luca 25
+	Battle 130: Luca  defeated Steve : Steve 26, Luca 26
+	Battle 131: Luca  defeated Steve : Steve 25, Luca 27
+	Battle 132: Luca  defeated Steve : Steve 24, Luca 28
+	Battle 133: Steve  defeated Luca : Steve 25, Luca 27
+	Battle 134: Steve  defeated Luca : Steve 26, Luca 26
+	Battle 135: Steve  defeated Luca : Steve 27, Luca 25
+	Battle 136: Steve  defeated Luca : Steve 28, Luca 24
+	Battle 137: Luca  defeated Steve : Steve 27, Luca 25
+	Battle 138: Luca  defeated Steve : Steve 26, Luca 26
+	Battle 139: Luca  defeated Steve : Steve 25, Luca 27
+	Battle 140: Luca  defeated Steve : Steve 24, Luca 28
+	Battle 141: Steve  defeated Luca : Steve 25, Luca 27
+	Battle 142: Steve  defeated Luca : Steve 26, Luca 26
+	Battle 143: Steve  defeated Luca : Steve 27, Luca 25
+	Battle 144: Luca  defeated Steve : Steve 26, Luca 26
+	Battle 145: Luca  defeated Steve : Steve 25, Luca 27
+	Battle 146: Luca  defeated Steve : Steve 24, Luca 28
+	Battle 147: Luca  defeated Steve : Steve 23, Luca 29
+	Battle 148: Luca  defeated Steve : Steve 22, Luca 30
+	Battle 149: Luca  defeated Steve : Steve 21, Luca 31
+	Battle 150: Luca  defeated Steve : Steve 20, Luca 32
+	Battle 151: Steve  defeated Luca : Steve 21, Luca 31
+	Battle 152: Steve  tied Luca 	War 10: Steve  defeated Luca : Steve 22, Luca 30
+	Battle 153: Steve  tied Luca 	War 11: Steve  defeated Luca : Steve 23, Luca 29
+	Battle 154: Luca  defeated Steve : Steve 22, Luca 30
+	Battle 155: Steve  defeated Luca : Steve 23, Luca 29
+	Battle 156: Steve  defeated Luca : Steve 24, Luca 28
+	Battle 157: Steve  defeated Luca : Steve 25, Luca 27
+	Battle 158: Steve  defeated Luca : Steve 26, Luca 26
+	Battle 159: Steve  defeated Luca : Steve 27, Luca 25
+	Battle 160: Steve  defeated Luca : Steve 28, Luca 24
+	Battle 161: Steve  tied Luca 	War 12: Steve  defeated Luca : Steve 29, Luca 23
+	Battle 162: Steve  defeated Luca : Steve 30, Luca 22
+	Battle 163: Steve  defeated Luca : Steve 31, Luca 21
+	Battle 164: Steve  defeated Luca : Steve 32, Luca 20
+	Battle 165: Steve  defeated Luca : Steve 33, Luca 19
+	Battle 166: Steve  defeated Luca : Steve 34, Luca 18
+	Battle 167: Steve  defeated Luca : Steve 35, Luca 17
+	Battle 168: Luca  defeated Steve : Steve 34, Luca 18
+	Battle 169: Steve  defeated Luca : Steve 35, Luca 17
+	Battle 170: Steve  defeated Luca : Steve 36, Luca 16
+	Battle 171: Luca  defeated Steve : Steve 35, Luca 17
+	Battle 172: Steve  defeated Luca : Steve 36, Luca 16
+	Battle 173: Luca  defeated Steve : Steve 35, Luca 17
+	Battle 174: Steve  tied Luca 	War 13: Steve  defeated Luca : Steve 36, Luca 16
+	Battle 175: Luca  defeated Steve : Steve 35, Luca 17
+	Battle 176: Luca  defeated Steve : Steve 34, Luca 18
+	Battle 177: Steve  defeated Luca : Steve 35, Luca 17
+	Battle 178: Steve  defeated Luca : Steve 36, Luca 16
+	Battle 179: Luca  defeated Steve : Steve 35, Luca 17
+	Battle 180: Steve  defeated Luca : Steve 36, Luca 16
+	Battle 181: Steve  defeated Luca : Steve 37, Luca 15
+	Battle 182: Steve  defeated Luca : Steve 38, Luca 14
+	Battle 183: Steve  defeated Luca : Steve 39, Luca 13
+	Battle 184: Steve  defeated Luca : Steve 40, Luca 12
+	Battle 185: Steve  defeated Luca : Steve 41, Luca 11
+	Battle 186: Steve  defeated Luca : Steve 42, Luca 10
+	Battle 187: Luca  defeated Steve : Steve 41, Luca 11
+	Battle 188: Luca  defeated Steve : Steve 40, Luca 12
+	Battle 189: Steve  tied Luca 	War 14: Steve  defeated Luca : Steve 41, Luca 11
+	Battle 190: Steve  defeated Luca : Steve 42, Luca 10
+	Battle 191: Luca  defeated Steve : Steve 41, Luca 11
+	Battle 192: Luca  defeated Steve : Steve 40, Luca 12
+	Battle 193: Steve  defeated Luca : Steve 41, Luca 11
+	Battle 194: Luca  defeated Steve : Steve 40, Luca 12
+	Battle 195: Luca  defeated Steve : Steve 39, Luca 13
+	Battle 196: Luca  defeated Steve : Steve 38, Luca 14
+	Battle 197: Steve  tied Luca 	War 15:	War 15: Steve  tied Luca 	War 16:  Steve  defeated Luca : Steve 39, Luca 13
+ Steve  defeated Luca : Steve 40, Luca 12
+	Battle 198: Luca  defeated Steve : Steve 39, Luca 13
+	Battle 199: Steve  defeated Luca : Steve 40, Luca 12
+	Battle 200: Steve  tied Luca 	War 17: Steve  defeated Luca : Steve 41, Luca 11
+	Battle 201: Steve  tied Luca 	War 18:Luca  defeated Steve : Steve 40, Luca 12
+	Battle 202: Steve  defeated Luca : Steve 41, Luca 11
+	Battle 203: Steve  defeated Luca : Steve 42, Luca 10
+	Battle 204: Steve  defeated Luca : Steve 43, Luca 9
+	Battle 205: Luca  defeated Steve : Steve 42, Luca 10
+	Battle 206: Luca  defeated Steve : Steve 41, Luca 11
+	Battle 207: Luca  defeated Steve : Steve 40, Luca 12
+	Battle 208: Luca  defeated Steve : Steve 39, Luca 13
+	Battle 209: Luca  defeated Steve : Steve 38, Luca 14
+	Battle 210: Steve  defeated Luca : Steve 39, Luca 13
+	Battle 211: Steve  defeated Luca : Steve 40, Luca 12
+	Battle 212: Steve  defeated Luca : Steve 41, Luca 11
+	Battle 213: Luca  defeated Steve : Steve 40, Luca 12
+	Battle 214: Steve  tied Luca 	War 19: Steve  defeated Luca : Steve 41, Luca 11
+	Battle 215: Steve  defeated Luca : Steve 42, Luca 10
+	Battle 216: Steve  tied Luca 	War 20:Luca  defeated Steve : Steve 41, Luca 11
+	Battle 217: Luca  defeated Steve : Steve 40, Luca 12
+	Battle 218: Steve  defeated Luca : Steve 41, Luca 11
+	Battle 219: Steve  defeated Luca : Steve 42, Luca 10
+	Battle 220: Luca  defeated Steve : Steve 41, Luca 11
+	Battle 221: Steve  defeated Luca : Steve 42, Luca 10
+	Battle 222: Steve  defeated Luca : Steve 43, Luca 9
+	Battle 223: Steve  defeated Luca : Steve 44, Luca 8
+	Battle 224: Steve  defeated Luca : Steve 45, Luca 7
+	Battle 225: Luca  defeated Steve : Steve 44, Luca 8
+	Battle 226: Luca  defeated Steve : Steve 43, Luca 9
+	Battle 227: Luca  defeated Steve : Steve 42, Luca 10
+	Battle 228: Steve  defeated Luca : Steve 43, Luca 9
+	Battle 229: Steve  defeated Luca : Steve 44, Luca 8
+	Battle 230: Steve  tied Luca 	War 21: Steve  defeated Luca : Steve 45, Luca 7
+	Battle 231: Luca  defeated Steve : Steve 44, Luca 8
+	Battle 232: Steve  defeated Luca : Steve 45, Luca 7
+	Battle 233: Steve  defeated Luca : Steve 46, Luca 6
+	Battle 234: Steve  defeated Luca : Steve 47, Luca 5
+	Battle 235: Steve  defeated Luca : Steve 48, Luca 4
+	Battle 236: Luca  defeated Steve : Steve 47, Luca 5
+	Battle 237: Steve  defeated Luca : Steve 48, Luca 4
+	Battle 238: Luca  defeated Steve : Steve 47, Luca 5
+	Battle 239: Steve  defeated Luca : Steve 48, Luca 4
+	Battle 240: Steve  tied Luca 	War 22: Steve  defeated Luca : Steve 49, Luca 3
+	Battle 241: Steve  defeated Luca : Steve 50, Luca 2
+	Battle 242: Steve  defeated Luca : Steve 51, Luca 1
+	Battle 243: Steve  defeated Luca : Steve 52, Luca 0
+Steve has won in 244 battles and 22 wars!
